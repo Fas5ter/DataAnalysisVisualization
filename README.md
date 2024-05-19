@@ -1,2 +1,2 @@
-# DataAnalysisVisualization
-Data analysis and visualization
+# Data Analysis Visualization
+### Data analysis and visualization with Python, Power BI and Tableau
